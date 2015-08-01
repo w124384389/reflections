@@ -1,0 +1,2 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+It won't create any commits for you. You create it so you can start tracking your progress.
